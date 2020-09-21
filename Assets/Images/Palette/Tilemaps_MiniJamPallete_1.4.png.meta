@@ -1,0 +1,1282 @@
+fileFormatVersion: 2
+guid: 0e3d8e37b796849adb498551802bb9b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1032542350386559558
+    second: Tilemaps_MiniJamPallete_1.4_0
+  - first:
+      213: -8340030078359866943
+    second: Tilemaps_MiniJamPallete_1.4_1
+  - first:
+      213: 1748204608291692048
+    second: Tilemaps_MiniJamPallete_1.4_2
+  - first:
+      213: 1344470938935826700
+    second: Tilemaps_MiniJamPallete_1.4_3
+  - first:
+      213: 1880930465210348565
+    second: Tilemaps_MiniJamPallete_1.4_4
+  - first:
+      213: 9187607076459211689
+    second: Tilemaps_MiniJamPallete_1.4_5
+  - first:
+      213: 2044627686284751690
+    second: Tilemaps_MiniJamPallete_1.4_6
+  - first:
+      213: -3769218458830951320
+    second: Tilemaps_MiniJamPallete_1.4_7
+  - first:
+      213: -7700077216191714145
+    second: Tilemaps_MiniJamPallete_1.4_8
+  - first:
+      213: -2040106524458001037
+    second: Tilemaps_MiniJamPallete_1.4_9
+  - first:
+      213: 711295471332477009
+    second: Tilemaps_MiniJamPallete_1.4_10
+  - first:
+      213: -7748754320799363966
+    second: Tilemaps_MiniJamPallete_1.4_11
+  - first:
+      213: 3669605098545389901
+    second: Tilemaps_MiniJamPallete_1.4_12
+  - first:
+      213: -7869606557830084270
+    second: Tilemaps_MiniJamPallete_1.4_13
+  - first:
+      213: -7269384176422204421
+    second: Tilemaps_MiniJamPallete_1.4_14
+  - first:
+      213: 1875559065536156962
+    second: Tilemaps_MiniJamPallete_1.4_15
+  - first:
+      213: 5044291399970639673
+    second: Tilemaps_MiniJamPallete_1.4_16
+  - first:
+      213: 1009549552278753836
+    second: Tilemaps_MiniJamPallete_1.4_17
+  - first:
+      213: 6228337629152608466
+    second: Tilemaps_MiniJamPallete_1.4_18
+  - first:
+      213: 2579724677243402889
+    second: Tilemaps_MiniJamPallete_1.4_19
+  - first:
+      213: 6771694405741073700
+    second: Tilemaps_MiniJamPallete_1.4_20
+  - first:
+      213: -8557306714684680196
+    second: Tilemaps_MiniJamPallete_1.4_21
+  - first:
+      213: 2519489016325489492
+    second: Tilemaps_MiniJamPallete_1.4_22
+  - first:
+      213: 2488227992614705018
+    second: Tilemaps_MiniJamPallete_1.4_23
+  - first:
+      213: 523186757632399868
+    second: Tilemaps_MiniJamPallete_1.4_24
+  - first:
+      213: -4079979285587203876
+    second: Tilemaps_MiniJamPallete_1.4_25
+  - first:
+      213: 7915306444539175443
+    second: Tilemaps_MiniJamPallete_1.4_26
+  - first:
+      213: -3848274956483537052
+    second: Tilemaps_MiniJamPallete_1.4_27
+  - first:
+      213: -279771359727242843
+    second: Tilemaps_MiniJamPallete_1.4_28
+  - first:
+      213: 7556420020969747409
+    second: Tilemaps_MiniJamPallete_1.4_29
+  - first:
+      213: 355909785640709367
+    second: Tilemaps_MiniJamPallete_1.4_30
+  - first:
+      213: -1641175488246519305
+    second: Tilemaps_MiniJamPallete_1.4_31
+  - first:
+      213: 8144729434192881677
+    second: Tilemaps_MiniJamPallete_1.4_32
+  - first:
+      213: -7591225057839400249
+    second: Tilemaps_MiniJamPallete_1.4_33
+  - first:
+      213: -692239613373261068
+    second: Tilemaps_MiniJamPallete_1.4_34
+  - first:
+      213: -5747613462217746125
+    second: Tilemaps_MiniJamPallete_1.4_35
+  - first:
+      213: -8316774440489418297
+    second: Tilemaps_MiniJamPallete_1.4_36
+  - first:
+      213: 1189829154098535955
+    second: Tilemaps_MiniJamPallete_1.4_37
+  - first:
+      213: -8031492974312534465
+    second: Tilemaps_MiniJamPallete_1.4_38
+  - first:
+      213: -8222250270356493802
+    second: Tilemaps_MiniJamPallete_1.4_39
+  - first:
+      213: 5415624242918412771
+    second: Tilemaps_MiniJamPallete_1.4_40
+  - first:
+      213: 653951647281306647
+    second: Tilemaps_MiniJamPallete_1.4_41
+  - first:
+      213: -8227497352698217053
+    second: Tilemaps_MiniJamPallete_1.4_42
+  - first:
+      213: -4387266308412192260
+    second: Tilemaps_MiniJamPallete_1.4_43
+  - first:
+      213: -4604711411822188538
+    second: Tilemaps_MiniJamPallete_1.4_44
+  - first:
+      213: 1261455640566331244
+    second: Tilemaps_MiniJamPallete_1.4_45
+  - first:
+      213: 630032455643872133
+    second: Tilemaps_MiniJamPallete_1.4_46
+  - first:
+      213: -318198318053938137
+    second: Tilemaps_MiniJamPallete_1.4_47
+  - first:
+      213: -2306822322075785643
+    second: Tilemaps_MiniJamPallete_1.4_48
+  - first:
+      213: 2839183361279801660
+    second: Tilemaps_MiniJamPallete_1.4_49
+  - first:
+      213: -8068397108667636435
+    second: Tilemaps_MiniJamPallete_1.4_50
+  - first:
+      213: 863207909091490107
+    second: Tilemaps_MiniJamPallete_1.4_51
+  - first:
+      213: 5074899244618087615
+    second: Tilemaps_MiniJamPallete_1.4_52
+  - first:
+      213: 6560502610105434511
+    second: Tilemaps_MiniJamPallete_1.4_53
+  - first:
+      213: 4939923373025174353
+    second: Tilemaps_MiniJamPallete_1.4_54
+  - first:
+      213: 47195241597763492
+    second: Tilemaps_MiniJamPallete_1.4_55
+  - first:
+      213: -5385820397239684538
+    second: Tilemaps_MiniJamPallete_1.4_56
+  - first:
+      213: -1291547704512575705
+    second: Tilemaps_MiniJamPallete_1.4_57
+  - first:
+      213: -8199606986389080255
+    second: Tilemaps_MiniJamPallete_1.4_58
+  - first:
+      213: 7357563850265541318
+    second: Tilemaps_MiniJamPallete_1.4_59
+  - first:
+      213: -3260473943842115363
+    second: Tilemaps_MiniJamPallete_1.4_60
+  - first:
+      213: 5481322406700726973
+    second: Tilemaps_MiniJamPallete_1.4_61
+  - first:
+      213: -3567750736021508781
+    second: Tilemaps_MiniJamPallete_1.4_62
+  - first:
+      213: 762169939081679839
+    second: Tilemaps_MiniJamPallete_1.4_63
+  - first:
+      213: -7235761873864191029
+    second: Tilemaps_MiniJamPallete_1.4_64
+  - first:
+      213: 2774256196460423201
+    second: Tilemaps_MiniJamPallete_1.4_65
+  - first:
+      213: 8635239279885065235
+    second: Tilemaps_MiniJamPallete_1.4_66
+  - first:
+      213: -8626863993043252344
+    second: Tilemaps_MiniJamPallete_1.4_67
+  - first:
+      213: 5713154975288137503
+    second: Tilemaps_MiniJamPallete_1.4_68
+  - first:
+      213: 3343806588772898477
+    second: Tilemaps_MiniJamPallete_1.4_69
+  - first:
+      213: -6757366184892747747
+    second: Tilemaps_MiniJamPallete_1.4_70
+  - first:
+      213: -2267322856676304507
+    second: Tilemaps_MiniJamPallete_1.4_71
+  - first:
+      213: 4347840408147845030
+    second: Tilemaps_MiniJamPallete_1.4_72
+  - first:
+      213: 4932004873295778442
+    second: Tilemaps_MiniJamPallete_1.4_73
+  - first:
+      213: 7631739090929543786
+    second: Tilemaps_MiniJamPallete_1.4_74
+  - first:
+      213: 8331200312818618067
+    second: Tilemaps_MiniJamPallete_1.4_75
+  - first:
+      213: -5235326695720174863
+    second: Tilemaps_MiniJamPallete_1.4_76
+  - first:
+      213: 62665888791888420
+    second: Tilemaps_MiniJamPallete_1.4_77
+  - first:
+      213: 3018347789169984671
+    second: Tilemaps_MiniJamPallete_1.4_78
+  - first:
+      213: -3138496766764164702
+    second: Tilemaps_MiniJamPallete_1.4_79
+  - first:
+      213: -4548225254653126196
+    second: Tilemaps_MiniJamPallete_1.4_80
+  - first:
+      213: -5867427312545387167
+    second: Tilemaps_MiniJamPallete_1.4_81
+  - first:
+      213: 1163928840576999049
+    second: Tilemaps_MiniJamPallete_1.4_82
+  - first:
+      213: 2187401741156556684
+    second: Tilemaps_MiniJamPallete_1.4_83
+  - first:
+      213: 5506467852610630761
+    second: Tilemaps_MiniJamPallete_1.4_84
+  - first:
+      213: -8643976418746725298
+    second: Tilemaps_MiniJamPallete_1.4_85
+  - first:
+      213: 8458653520308086120
+    second: Tilemaps_MiniJamPallete_1.4_86
+  - first:
+      213: -8923898619351662541
+    second: Tilemaps_MiniJamPallete_1.4_87
+  - first:
+      213: 8073774421620689953
+    second: Tilemaps_MiniJamPallete_1.4_88
+  - first:
+      213: 9201849885029663124
+    second: Tilemaps_MiniJamPallete_1.4_89
+  - first:
+      213: -4971444263634983550
+    second: Tilemaps_MiniJamPallete_1.4_90
+  - first:
+      213: -6182703793004172351
+    second: Tilemaps_MiniJamPallete_1.4_91
+  - first:
+      213: 1103046778456745393
+    second: Tilemaps_MiniJamPallete_1.4_92
+  - first:
+      213: 6736249894490278838
+    second: Tilemaps_MiniJamPallete_1.4_93
+  - first:
+      213: -3919161815832470842
+    second: Tilemaps_MiniJamPallete_1.4_94
+  - first:
+      213: 2337801817187001155
+    second: Tilemaps_MiniJamPallete_1.4_95
+  - first:
+      213: -2016439015139250607
+    second: Tilemaps_MiniJamPallete_1.4_96
+  - first:
+      213: 211168858509675448
+    second: Tilemaps_MiniJamPallete_1.4_97
+  - first:
+      213: 9078834305084654030
+    second: Tilemaps_MiniJamPallete_1.4_98
+  - first:
+      213: -4145942866025515695
+    second: Tilemaps_MiniJamPallete_1.4_99
+  - first:
+      213: 1579301196002065043
+    second: Tilemaps_MiniJamPallete_1.4_100
+  - first:
+      213: -7105510359887745033
+    second: Tilemaps_MiniJamPallete_1.4_101
+  - first:
+      213: 7370701735631863236
+    second: Tilemaps_MiniJamPallete_1.4_102
+  - first:
+      213: 2757542776217406088
+    second: Tilemaps_MiniJamPallete_1.4_103
+  - first:
+      213: -5754018875040150674
+    second: Tilemaps_MiniJamPallete_1.4_104
+  - first:
+      213: 7017561932609733913
+    second: Tilemaps_MiniJamPallete_1.4_105
+  - first:
+      213: -4290161407279289044
+    second: Tilemaps_MiniJamPallete_1.4_106
+  - first:
+      213: 779451722325664641
+    second: Tilemaps_MiniJamPallete_1.4_107
+  - first:
+      213: -3420726455213941737
+    second: Tilemaps_MiniJamPallete_1.4_108
+  - first:
+      213: -9205962069193094463
+    second: Tilemaps_MiniJamPallete_1.4_109
+  - first:
+      213: -3546908297933788820
+    second: Tilemaps_MiniJamPallete_1.4_110
+  - first:
+      213: 2209722309287114945
+    second: Tilemaps_MiniJamPallete_1.4_111
+  - first:
+      213: -2026697628254187836
+    second: Tilemaps_MiniJamPallete_1.4_112
+  - first:
+      213: -3338628464798257740
+    second: Tilemaps_MiniJamPallete_1.4_113
+  - first:
+      213: 7779868754543100639
+    second: Tilemaps_MiniJamPallete_1.4_114
+  - first:
+      213: -9135745021896380038
+    second: Tilemaps_MiniJamPallete_1.4_115
+  - first:
+      213: -6691243321191709443
+    second: Tilemaps_MiniJamPallete_1.4_116
+  - first:
+      213: 4176154171269860258
+    second: Tilemaps_MiniJamPallete_1.4_117
+  - first:
+      213: 5205563560466143935
+    second: Tilemaps_MiniJamPallete_1.4_118
+  - first:
+      213: -3505873060599567686
+    second: Tilemaps_MiniJamPallete_1.4_119
+  - first:
+      213: 6507165818443380247
+    second: Tilemaps_MiniJamPallete_1.4_0
+  - first:
+      213: -7123761909323255724
+    second: Tilemaps_MiniJamPallete_1.4_1
+  - first:
+      213: -1073679655992228137
+    second: Tilemaps_MiniJamPallete_1.4_2
+  - first:
+      213: -7709982944355326734
+    second: Tilemaps_MiniJamPallete_1.4_3
+  - first:
+      213: -4180265191042272560
+    second: Tilemaps_MiniJamPallete_1.4_4
+  - first:
+      213: -1197482119877335131
+    second: Tilemaps_MiniJamPallete_1.4_5
+  - first:
+      213: -5201723510779963995
+    second: Tilemaps_MiniJamPallete_1.4_6
+  - first:
+      213: -1802342469801184590
+    second: Tilemaps_MiniJamPallete_1.4_7
+  - first:
+      213: -5940600757500701482
+    second: Tilemaps_MiniJamPallete_1.4_8
+  - first:
+      213: -9022684207205395808
+    second: Tilemaps_MiniJamPallete_1.4_9
+  - first:
+      213: -9131859135177750949
+    second: Tilemaps_MiniJamPallete_1.4_10
+  - first:
+      213: 5688530665716203431
+    second: Tilemaps_MiniJamPallete_1.4_11
+  - first:
+      213: -6441550811728934427
+    second: Tilemaps_MiniJamPallete_1.4_12
+  - first:
+      213: 8930412349602873001
+    second: Tilemaps_MiniJamPallete_1.4_13
+  - first:
+      213: -3574678340726375154
+    second: Tilemaps_MiniJamPallete_1.4_14
+  - first:
+      213: 3231854396287144078
+    second: Tilemaps_MiniJamPallete_1.4_15
+  - first:
+      213: -5130441127148338677
+    second: Tilemaps_MiniJamPallete_1.4_16
+  - first:
+      213: -6687090042532566145
+    second: Tilemaps_MiniJamPallete_1.4_17
+  - first:
+      213: 5545635391237266962
+    second: Tilemaps_MiniJamPallete_1.4_18
+  - first:
+      213: -1930231292194288711
+    second: Tilemaps_MiniJamPallete_1.4_19
+  - first:
+      213: 177091954410466362
+    second: Tilemaps_MiniJamPallete_1.4_20
+  - first:
+      213: -4789881413493639725
+    second: Tilemaps_MiniJamPallete_1.4_21
+  - first:
+      213: 6593367586772016140
+    second: Tilemaps_MiniJamPallete_1.4_22
+  - first:
+      213: 3998092284809320347
+    second: Tilemaps_MiniJamPallete_1.4_23
+  - first:
+      213: -3266636892862544714
+    second: Tilemaps_MiniJamPallete_1.4_24
+  - first:
+      213: -2075772719432609046
+    second: Tilemaps_MiniJamPallete_1.4_25
+  - first:
+      213: -7884048012877564002
+    second: Tilemaps_MiniJamPallete_1.4_26
+  - first:
+      213: -5559331888304794437
+    second: Tilemaps_MiniJamPallete_1.4_27
+  - first:
+      213: -8967284480459090935
+    second: Tilemaps_MiniJamPallete_1.4_28
+  - first:
+      213: -1769069439148446844
+    second: Tilemaps_MiniJamPallete_1.4_29
+  - first:
+      213: -3525023555966763097
+    second: Tilemaps_MiniJamPallete_1.4_30
+  - first:
+      213: -2939007733472556985
+    second: Tilemaps_MiniJamPallete_1.4_31
+  - first:
+      213: -8038950690924795098
+    second: Tilemaps_MiniJamPallete_1.4_32
+  - first:
+      213: -5307839184834794009
+    second: Tilemaps_MiniJamPallete_1.4_33
+  - first:
+      213: 4104504397193769651
+    second: Tilemaps_MiniJamPallete_1.4_34
+  - first:
+      213: -3560065168395399947
+    second: Tilemaps_MiniJamPallete_1.4_35
+  - first:
+      213: 3612391155918291790
+    second: Tilemaps_MiniJamPallete_1.4_36
+  - first:
+      213: 2478651664721035374
+    second: Tilemaps_MiniJamPallete_1.4_37
+  - first:
+      213: -1053136731365688318
+    second: Tilemaps_MiniJamPallete_1.4_38
+  - first:
+      213: -3380816988534379334
+    second: Tilemaps_MiniJamPallete_1.4_39
+  - first:
+      213: 3895521619083598247
+    second: Tilemaps_MiniJamPallete_1.4_40
+  - first:
+      213: 220437263064057409
+    second: Tilemaps_MiniJamPallete_1.4_41
+  - first:
+      213: -4478484835151688079
+    second: Tilemaps_MiniJamPallete_1.4_42
+  - first:
+      213: -6234504472344976155
+    second: Tilemaps_MiniJamPallete_1.4_43
+  - first:
+      213: -2319538338243770132
+    second: Tilemaps_MiniJamPallete_1.4_44
+  - first:
+      213: -3109063180226946801
+    second: Tilemaps_MiniJamPallete_1.4_45
+  - first:
+      213: 1100007922408282781
+    second: Tilemaps_MiniJamPallete_1.4_46
+  - first:
+      213: 5356109498558640756
+    second: Tilemaps_MiniJamPallete_1.4_47
+  - first:
+      213: -1928225619841066715
+    second: Tilemaps_MiniJamPallete_1.4_48
+  - first:
+      213: 4135928510451150015
+    second: Tilemaps_MiniJamPallete_1.4_49
+  - first:
+      213: -8785110638098669822
+    second: Tilemaps_MiniJamPallete_1.4_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716b1eed5d81e4a50800000000000000
+      internalID: 6507165818443380247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450345a6940532d90800000000000000
+      internalID: -7123761909323255724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6050e9a068911f0800000000000000
+      internalID: -1073679655992228137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f461618c53a00590800000000000000
+      internalID: -7709982944355326734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2befce4f6bcf5c0800000000000000
+      internalID: -4180265191042272560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a764d34b50b16fe0800000000000000
+      internalID: -1197482119877335131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a59920e604cfc7b0800000000000000
+      internalID: -5201723510779963995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b276eba21bccf6e0800000000000000
+      internalID: -1802342469801184590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d411c0f51fbe8da0800000000000000
+      internalID: -5940600757500701482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2defc848cf8c280800000000000000
+      internalID: -9022684207205395808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5603dccf7e154180800000000000000
+      internalID: -9131859135177750949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af3ee75088b1fe40800000000000000
+      internalID: 5688530665716203431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e984406aa30b96a0800000000000000
+      internalID: -6441550811728934427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae37d377b23feb70800000000000000
+      internalID: 8930412349602873001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0db8b21df0346ec0800000000000000
+      internalID: -3574678340726375154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80da78437ad9dc20800000000000000
+      internalID: 3231854396287144078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02c4432af20dc8b0800000000000000
+      internalID: -5130441127148338677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b6bc9390fa233a0800000000000000
+      internalID: -6687090042532566145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e188c910e06fc40800000000000000
+      internalID: 5545635391237266962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb8a66ddd07635e0800000000000000
+      internalID: -1930231292194288711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c273bb138257200800000000000000
+      internalID: 177091954410466362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d537787b3ce68db0800000000000000
+      internalID: -4789881413493639725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cde1313e8508b50800000000000000
+      internalID: 6593367586772016140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971a4f00c31c7730800000000000000
+      internalID: 3998092284809320347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b40eb6ad039aa2d0800000000000000
+      internalID: -3266636892862544714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2d5c7a5bf5133e0800000000000000
+      internalID: -2075772719432609046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97fe409a1c369290800000000000000
+      internalID: -7884048012877564002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb457192a1949d2b0800000000000000
+      internalID: -5559331888304794437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904dc56964ecd8380800000000000000
+      internalID: -8967284480459090935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bae80d7b00377e0800000000000000
+      internalID: -1769069439148446844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemaps_MiniJamPallete_1.4_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af77b190c9941fc0800000000000000
+      internalID: -3525023555966763097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
